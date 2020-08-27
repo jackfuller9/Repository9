@@ -1,5 +1,7 @@
 ## Welcome Jack Fuller's Repository 9
 
+![typing test](https://github.com/jackfuller9/Repository9/blob/gh-pages/Images9/TypingTest9.png?raw=true)
+
 
 You can use the [editor on GitHub](https://github.com/jackfuller9/Repository9/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
